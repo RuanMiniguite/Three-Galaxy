@@ -59,6 +59,8 @@
 > JS
 ```
 
+<!-- ============== INSTALLATION ============== -->
+## Installation
 #### Git Clone
 ```
 Git Clone https://github.com/RuanMiniguite/Three-Galaxy.git
