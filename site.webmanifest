@@ -1,0 +1,19 @@
+{
+  "name": "Galaxy",
+  "short_name": "Galaxy",
+  "icons": [
+    {
+      "src": "img/icon/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "img/icon/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#0F1010",
+  "display": "standalone"
+}
