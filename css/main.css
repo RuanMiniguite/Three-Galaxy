@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;600&display=swap');
+
+:root{
+  --font-1: "Nunito",sans-serif;
+
+  --cor-1: #000000;
+  --cor-2: #ffffff;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  user-select: none;
+}
+
+body{
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.webgl{
+  z-index: 0;
+  position: fixed;
+  top: 0;
+  left: 0;
+  outline: none;
+}
+
+#black{
+  z-index: 2;
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  background-color: #00000065
+}
